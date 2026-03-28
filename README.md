@@ -32,7 +32,7 @@
 
 ## 문서 구조
 
-`CPAS_설계명세서.md`는 9개 본문 절과 부록으로 구성된다.
+[CPAS_Design_Specification.md](./docs/CPAS_Design_Specification.md) 는 9개 본문 절과 부록으로 구성된다.
 
 | 절 | 제목 | 내용 |
 |----|------|------|
